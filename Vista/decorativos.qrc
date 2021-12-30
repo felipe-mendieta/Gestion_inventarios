@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="Fondos">
+    <file>Recursos/escudofinal.png</file>
+    <file>Recursos/escudofinal.png</file>
+    <file>Recursos/fondo10.jpg</file>
+    <file>Recursos/fondo13.jpg</file>
+  </qresource>
+  <qresource prefix="Iconos">
+    <file>Recursos/conifTip.png</file>
+    <file>Recursos/iconoInforme1.svg</file>
+    <file>Recursos/iconoInforme2.svg</file>
+    <file>Recursos/iconoSalir.svg</file>
+    <file>Recursos/iconoGuardar.svg</file>
+    <file>Recursos/icono1.svg</file>
+    <file>Recursos/iconoAcercaDe.svg</file>
+    <file>Recursos/iconoActualizar.png</file>
+    <file>Recursos/iconoContacto.ico</file>
+    <file>Recursos/iconoDepar.png</file>
+    <file>Recursos/iconoEmpresa.ico</file>
+    <file>Recursos/iconoSo.ico</file>
+    <file>Recursos/iconoContacto.ico</file>
+  </qresource>
+</RCC>
